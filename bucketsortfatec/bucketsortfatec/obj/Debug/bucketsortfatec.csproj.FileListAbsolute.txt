@@ -1,0 +1,5 @@
+C:\Users\Gustavo\OneDrive - Fatec Centro Paula Souza\Desktop\faculdade\bucketsortfatec\bucketsortfatec\bin\Debug\bucketsortfatec.exe.config
+C:\Users\Gustavo\OneDrive - Fatec Centro Paula Souza\Desktop\faculdade\bucketsortfatec\bucketsortfatec\bin\Debug\bucketsortfatec.exe
+C:\Users\Gustavo\OneDrive - Fatec Centro Paula Souza\Desktop\faculdade\bucketsortfatec\bucketsortfatec\bin\Debug\bucketsortfatec.pdb
+C:\Users\Gustavo\OneDrive - Fatec Centro Paula Souza\Desktop\faculdade\bucketsortfatec\bucketsortfatec\obj\Debug\bucketsortfatec.exe
+C:\Users\Gustavo\OneDrive - Fatec Centro Paula Souza\Desktop\faculdade\bucketsortfatec\bucketsortfatec\obj\Debug\bucketsortfatec.pdb

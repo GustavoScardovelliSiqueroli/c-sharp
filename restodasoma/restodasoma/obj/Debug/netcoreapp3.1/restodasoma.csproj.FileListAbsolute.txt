@@ -1,0 +1,28 @@
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.exe
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.deps.json
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.runtimeconfig.json
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.runtimeconfig.dev.json
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.dll
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.pdb
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.csproj.AssemblyReference.cache
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.AssemblyInfoInputs.cache
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.AssemblyInfo.cs
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.dll
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.pdb
+C:\Users\Fabiano Siqueroli\source\repos\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.genruntimeconfig.cache
+F:\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.exe
+F:\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.deps.json
+F:\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.runtimeconfig.json
+F:\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.runtimeconfig.dev.json
+F:\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.dll
+F:\restodasoma\restodasoma\bin\Debug\netcoreapp3.1\restodasoma.pdb
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.csproj.AssemblyReference.cache
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.GeneratedMSBuildEditorConfig.editorconfig
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.AssemblyInfoInputs.cache
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.AssemblyInfo.cs
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.csproj.CoreCompileInputs.cache
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.dll
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.pdb
+F:\restodasoma\restodasoma\obj\Debug\netcoreapp3.1\restodasoma.genruntimeconfig.cache

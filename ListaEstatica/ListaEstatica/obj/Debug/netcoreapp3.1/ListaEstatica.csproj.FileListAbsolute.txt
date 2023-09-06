@@ -1,0 +1,14 @@
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\bin\Debug\netcoreapp3.1\ListaEstatica.exe
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\bin\Debug\netcoreapp3.1\ListaEstatica.deps.json
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\bin\Debug\netcoreapp3.1\ListaEstatica.runtimeconfig.json
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\bin\Debug\netcoreapp3.1\ListaEstatica.runtimeconfig.dev.json
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\bin\Debug\netcoreapp3.1\ListaEstatica.dll
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\bin\Debug\netcoreapp3.1\ListaEstatica.pdb
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.csproj.AssemblyReference.cache
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.AssemblyInfoInputs.cache
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.AssemblyInfo.cs
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.dll
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.pdb
+C:\Users\Fabiano Siqueroli\source\repos\ListaEstatica\ListaEstatica\obj\Debug\netcoreapp3.1\ListaEstatica.genruntimeconfig.cache

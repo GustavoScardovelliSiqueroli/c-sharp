@@ -1,0 +1,16 @@
+C:\Users\Lab_03_alu_18\source\repos\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe.config
+C:\Users\Lab_03_alu_18\source\repos\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe
+C:\Users\Lab_03_alu_18\source\repos\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.pdb
+C:\Users\Lab_03_alu_18\source\repos\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.csprojAssemblyReference.cache
+C:\Users\Lab_03_alu_18\source\repos\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\Lab_03_alu_18\source\repos\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.exe
+C:\Users\Lab_03_alu_18\source\repos\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.pdb
+C:\Users\ALU-LAB3-PC14\Downloads\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe.config
+C:\Users\ALU-LAB3-PC14\Downloads\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.exe
+C:\Users\ALU-LAB3-PC14\Downloads\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.pdb
+C:\Users\ALU-LAB3-PC14\Downloads\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe
+C:\Users\ALU-LAB3-PC14\Downloads\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.pdb
+C:\Users\ALU-LAB3-PC14\Downloads\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.csprojResolveAssemblyReference.cache
+F:\.C_Sharp\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe.config
+F:\.C_Sharp\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.exe
+F:\.C_Sharp\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.pdb
